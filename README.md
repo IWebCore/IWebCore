@@ -34,7 +34,7 @@ IMakeCore builds upon existing foundations, providing a source-based package man
 }
 ```
 
-[View Documentation →](./IMakeCore/quick_start.md)
+[View Documentation →](https://docs.iwebcore.org/IMakeCore/quick_start.md)
 
 ---
 
@@ -62,7 +62,7 @@ public:
 }
 ```
 
-[Quick Start →](IHttpCore/overview.md)
+[Quick Start →](https://docs.iwebcore.org/IHttpCore/overview.md)
 
 ---
 
@@ -126,38 +126,7 @@ m_userModel.insertOneRef(user);
 auto user = m_userModel.findById(id);
 ```
 
-[Learn More →](IRdbCore/overview.md)
-
----
-
-### 🔥 IPubCore - Package Publishing/Querying/Downloading System
-**Enterprise-Level Publishing Management Platform**
-
-[IPubCore](https://pub.iwebcore.org) provides an enterprise-level package publishing management platform, supporting:
-
-- 🏭 C++ Source Package Query
-- 🛡️ Integration with IMakeCore for automatic package download
-- 📊 User Registration/User Management
-- 🔗 User Package Upload
-
-[Guideline →](https://pub.iwebcore.org)
-
----
-
-### 📚 ICore - Foundation Framework
-**Framework Core Component Library**
-
-ICore contains the foundation components and utility classes of the framework, providing low-level support for other modules.
-
-- 🧰 Dependency Injection Container
-- ⏱️ Task Scheduling System
-- 🔐 Security Components
-- 🛠️ Utility Toolkit
-- 🌈 Configuration System
-- 🖥️ Event Loop
-- 🗄️ Database Components
-
-[Core Features →](ICore/IApplication.md)
+[Learn More →](https://docs.iwebcore.org/IRdbCore/overview.md)
 
 ---
 
@@ -226,13 +195,13 @@ void UserSetEmail::setEmail()
 }
 ```
 
-[Get Started →](ICmd/overview.md)
+[Get Started →](https://docs.iwebcore.org/ICmd/overview.md)
 
 ---
 
 ## 🚀 Getting Started
 
-To get started with IWebCore, check out the [documentation](https://iwebcore.org) or explore the individual module guides above.
+To get started with IWebCore, check out the [documentation](https://docs.iwebcore.org) or explore the individual module guides above.
 
 
 ## 📞 Support
