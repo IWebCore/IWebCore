@@ -34,7 +34,7 @@ IMakeCore builds upon existing foundations, providing a source-based package man
 }
 ```
 
-[View Documentation →](https://docs.iwebcore.org/IMakeCore/quick_start.md)
+[View Documentation →](https://docs.iwebcore.org/IMakeCore/quick_start)
 
 ---
 
@@ -62,7 +62,7 @@ public:
 }
 ```
 
-[Quick Start →](https://docs.iwebcore.org/IHttpCore/overview.md)
+[Quick Start →](https://docs.iwebcore.org/IHttpCore/overview)
 
 ---
 
@@ -126,7 +126,7 @@ m_userModel.insertOneRef(user);
 auto user = m_userModel.findById(id);
 ```
 
-[Learn More →](https://docs.iwebcore.org/IRdbCore/overview.md)
+[Learn More →](https://docs.iwebcore.org/IRdbCore/overview)
 
 ---
 
@@ -195,7 +195,7 @@ void UserSetEmail::setEmail()
 }
 ```
 
-[Get Started →](https://docs.iwebcore.org/ICmd/overview.md)
+[Get Started →](https://docs.iwebcore.org/ICmd/overview)
 
 ---
 
